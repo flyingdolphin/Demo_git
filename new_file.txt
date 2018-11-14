@@ -1,2 +1,3 @@
-Ceci est un fichier texte créé en local.
-Je l'édite ici depuis GitHub.
+﻿Ceci est un fichier texte créé en local.
+Je l'édite ici depuis GitHub,
+puis ici à nouveau en local.
