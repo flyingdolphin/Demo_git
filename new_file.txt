@@ -1,1 +1,2 @@
-Ceci est un fichier texte.
+Ceci est un fichier texte créé en local.
+Je l'édite ici depuis GitHub.
